@@ -31,6 +31,10 @@ Select The Disk Size and Finish VM Setup: <br/>
 <img src="https://i.imgur.com/ZS7xFTv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Enable Virtualization in BIOS: <br/>
+<img src="https://i.imgur.com/Tka6RNT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
 Mount Windows Server 2016 ISO and Launch Installation (GUI Option Selected):  <br/>
 <img src="https://i.imgur.com/EmSoLcb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
